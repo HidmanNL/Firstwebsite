@@ -21,16 +21,21 @@ hr {
 h1 {
   color: #3b6978;
     text-align: center;
+font-family: 'Merriweather', serif;
 }
 
 h3 {
   color: #3b6978;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 
 p {
   text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .center {
