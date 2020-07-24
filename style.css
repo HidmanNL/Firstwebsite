@@ -1,5 +1,6 @@
 body {
   background-color: #cff1ef
+
 }
 
 hr {
@@ -19,6 +20,12 @@ hr {
 }
 
 h1 {
+  color: #3b6978;
+    text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h2 {
   color: #3b6978;
     text-align: center;
 font-family: 'Merriweather', serif;
